@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.terraform\\providers",
+    "\\.terraform\\providers\\registry.terraform.io",
+    "\\.terraform\\providers\\registry.terraform.io\\hashicorp",
+    "\\modules",
+    "\\modules\\alb_module",
+    "\\modules\\asg_module",
+    "\\modules\\bastion_module",
+    "\\modules\\vpc_module"
+  ],
+  "SelectedNode": "\\modules\\asg_module\\variable.tf",
+  "PreviewInSolutionExplorer": false
+}
